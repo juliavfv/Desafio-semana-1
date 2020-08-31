@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-family:'Segoe UI', sans-serif;
+    }   
+h1{
+        font-family: 'Segoe UI';
+        color: indianred;
+        text-align: center;
+    }
+    .cinza{
+        color: black;
+    }
+    .azul{
+        color: lightcoral;
+    }
+
+    div{
+        margin: 10px;
+        padding: 30px ;
+        border: mediumvioletred solid 10px;
+        
+    }
